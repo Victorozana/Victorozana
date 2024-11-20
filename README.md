@@ -1,6 +1,6 @@
 # 👨‍💻Victor Ozana 
 - Cursando Bacharelado em Sistemas de Informação no IFG Luziânia 
-- 18 anos 
+- 19 anos 
 - Moro em Luziânia - Goiás
 
 |Contatos:               |
