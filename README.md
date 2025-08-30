@@ -20,7 +20,7 @@
 ---
 ## 🛠️ Projetos em Destaque
 
-### 🔐 [API Lista de Jogos](https://github.com/Victorozana/dslist)
+### 🎮 [API Lista de Jogos](https://github.com/Victorozana/dslist)
 Api para organizar uma lista de jogos, do qual o usuário pode escolher reordenar a lista classificando os jogos!
 
 > ✅ Spring Boot  • PostgreSQL • Arquitetura em Camadas • Consultas personalizadas SQL
