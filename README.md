@@ -1,4 +1,4 @@
-# 👨‍💻 Victor Ozana — Desenvolvedor Backend Java
+# 👨‍💻 Victor Ozana — Desenvolvedor de Software
 
 🎯 Focado em desenvolvimento backend com **Java + Spring Boot**, construo APIs robustas, organizadas com arquitetura em camadas, autenticação segura e integração com banco de dados PostgreSQL. Estou sempre aprendendo e aplicando boas práticas no meu código.
 
@@ -20,6 +20,11 @@
 ---
 ## 🛠️ Projetos em Destaque
 
+### 🔐 [API Lista de Jogos](https://github.com/Victorozana/dslist)
+Api para organizar uma lista de jogos, do qual o usuário pode escolher reordenar a lista classificando os jogos!
+
+> ✅ Spring Boot  • PostgreSQL • Arquitetura em Camadas • Consultas personalizadas SQL
+
 ### 🔐 [API de Autenticação com Spring Boot](https://github.com/Victorozana/meu_primeiro_spring_boot)
 Meu primeiro projeto usando Spring Boot com foco em arquitetura limpa. Possui autenticação com login e cadastro, organização por camadas e integração com banco de dados.
 
@@ -34,17 +39,9 @@ Jogo interativo com interface gráfica usando JavaFX. Permite dois jogadores e i
 
 ---
 
-## 👨‍🎓 Sobre mim
-
-Sou apaixonado por resolver problemas com código. Tenho buscado evoluir como desenvolvedor backend, estudando diariamente, criando projetos pessoais e participando de comunidades de tecnologia. Gosto especialmente de **construir APIs, estudar boas práticas e arquitetura limpa**.
-
 ---
 
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Victorozana/)  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victor.ozprofissional@gmail.com)
-
-<!--
-Esse README aparece no seu perfil do GitHub. Para editar, atualize o arquivo README.md no repositório Victorozana/Victorozana.
--->
