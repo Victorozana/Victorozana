@@ -1,21 +1,21 @@
 # 👨‍💻 Victor Ozana — Desenvolvedor de Software
 
-🎯 Focado em desenvolvimento backend com **Java + Spring Boot**, construo APIs robustas, organizadas com arquitetura em camadas, autenticação segura e integração com banco de dados PostgreSQL. Estou sempre aprendendo e aplicando boas práticas no meu código.
+🎯 Focado em desenvolvimento fullstack com **Java, Spring Boot e Angular**, construo aplicações robustas, organizadas com arquitetura em camadas, autenticação segura e integração com banco de dados. Estou sempre aprendendo e aplicando boas práticas nos meus códigos.
 
-📚 Atualmente curso **Bacharelado em Sistemas de Informação** no Instituto Federal de Goiás (IFG), e moro em **Luziânia - Goiás**.
+📚 Atualmente curso **Bacharelado em Sistemas de Informação** no Instituto Federal de Goiás (IFG) | 2024 - 2027, e moro em **Luziânia - Goiás**.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens:** Java
-- **Frameworks:** Spring Boot, Spring Security
+- **Linguagens:** Java, Python
+- **Frameworks e Ferramentas:** Spring Boot, Angular, Docker
 - **Banco de Dados:** PostgreSQL
 - **ORM:** JPA, Hibernate
 - **Gerenciamento de Dependências:** Maven
 - **Testes e Requisições:** Insomnia
 - **Controle de Versão:** Git e GitHub
-- **Outros:** APIs RESTful, Autenticação JWT, Arquitetura MVC
+- **Outros:** APIs RESTful, Arquitetura MVC e em Camadas
 
 ---
 ## 🛠️ Projetos em Destaque
